@@ -1,0 +1,11 @@
+C:\Users\szwar\source\repos\IK_kolko_krzyzyk_2\bin\Debug\IK_kolko_krzyzyk_2.exe.config
+C:\Users\szwar\source\repos\IK_kolko_krzyzyk_2\bin\Debug\IK_kolko_krzyzyk_2.exe
+C:\Users\szwar\source\repos\IK_kolko_krzyzyk_2\bin\Debug\IK_kolko_krzyzyk_2.pdb
+C:\Users\szwar\source\repos\IK_kolko_krzyzyk_2\obj\Debug\IK_kolko_krzyzyk_2.csproj.AssemblyReference.cache
+C:\Users\szwar\source\repos\IK_kolko_krzyzyk_2\obj\Debug\IK_kolko_krzyzyk_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\szwar\source\repos\IK_kolko_krzyzyk_2\obj\Debug\IK_kolko_krzyzyk_2.Form1.resources
+C:\Users\szwar\source\repos\IK_kolko_krzyzyk_2\obj\Debug\IK_kolko_krzyzyk_2.Properties.Resources.resources
+C:\Users\szwar\source\repos\IK_kolko_krzyzyk_2\obj\Debug\IK_kolko_krzyzyk_2.csproj.GenerateResource.cache
+C:\Users\szwar\source\repos\IK_kolko_krzyzyk_2\obj\Debug\IK_kolko_krzyzyk_2.csproj.CoreCompileInputs.cache
+C:\Users\szwar\source\repos\IK_kolko_krzyzyk_2\obj\Debug\IK_kolko_krzyzyk_2.exe
+C:\Users\szwar\source\repos\IK_kolko_krzyzyk_2\obj\Debug\IK_kolko_krzyzyk_2.pdb
